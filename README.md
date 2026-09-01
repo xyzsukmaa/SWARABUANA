@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 Tujuan (SDG Alignment)
+## Tujuan (SDG Alignment)
 Proyek website ini dibangun untuk mendukung pencapaian **Sustainable Development Goals (SDGs)**:
 
 1. **SDG 15: Ekosistem Daratan (Life on Land)**
