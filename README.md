@@ -1,11 +1,9 @@
 # SWARABUANA
 
 ## Anggota Kelompok
-| No | Nama | NIM | 
-|---|---|---|---|
-| 1 | Haifa Julda almira||140810250071|
-| 2 | Sri Sukmawati ||140810250059|
-| 3 | Asma Hamidah ||140810250053|
+|Haifa Julda almira 140810250071
+|Sri Sukmawati 140810250059
+|Asma Hamidah 140810250053
 
 ---
 
