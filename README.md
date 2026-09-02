@@ -43,3 +43,41 @@ Proyek website ini dibangun untuk mendukung pencapaian **Sustainable Development
 ## Mockup Kasar Sederhana
 
 ```text
++-----------------------------------------------------------------------+
+|  [LOGO]  EcoWeb       Home   Scan Kamera   Katalog   Edukasi   Kontak |
++-----------------------------------------------------------------------+
+|                                                                       |
+|   [ HERO SECTION ]                                                    |
+|   "Lestarikan Keanekaragaman Hayati & Identifikasi Tanaman Sekitarmu" |
+|   [ 📸 AMBIL FOTO / SCAN TANAMAN ]  [ LIHAT DATA IKLIM ]             |
+|                                                                       |
++-----------------------------------------------------------------------+
+|                                                                       |
+|   [ MODUL IDENTIFIKASI AI ]          [ FITUR 2: Visualisasi Hutan ]   |
+|   +--------------------------+       +--------------------------+     |
+|   | [ 📷 Buka Kamera ]       |       | Grafik Deforestasi       |     |
+|   | Hasil: "Kantung Semar"   |       | & Karbon Terserap        |     |
+|   | Akurasi: 96%             |       |                          |     |
+|   +--------------------------+       +--------------------------+     |
+|                                                                       |
++-----------------------------------------------------------------------+
+|                                                                       |
+|   [ FITUR 3: ECOTRACKER & AKSI NYATA (GAMIFIKASI) ]                   |
+|   +-------------------------------+   +---------------------------+   |
+|   | Pohon Virtual (80% Tumbuh)    |   |hutan virtual dari pohon   |   |
+|   | [========......] 80/100 Ltr   |   |yang di tanam pengguna         |
+|   | Stok Air: 4 Siraman           |   +---------------------------+   |
+|   | Akses Web: +1 Siraman         |   | Klaim tukar dengan pohon  |   |
+|   | Baca Artikel: +2 Siraman      |   | asli                      |   |
+|   |      [ 🚿 SIRAM POHON ]       |   |                           |   |
+|   +-------------------------------+   +---------------------------+   |
+|                                                                       |
++-----------------------------------------------------------------------+
+|                                                                       |
+|   [ FITUR 4: Modul Edukasi Gratis & Katalog ]                         |
+|   - Katalog: Pemetaan Tanaman Lokal Terancam Punah                    |
+|   - Edukasi: Dampak Hilangnya Hutan Penyerap Karbon                   |
+|                                                                       |
++-----------------------------------------------------------------------+
+|  Footer: © SWARABUANA          | Supporting SDGs 4, 13, & 15          |
++-----------------------------------------------------------------------+
