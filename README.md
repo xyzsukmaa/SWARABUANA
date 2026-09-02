@@ -26,9 +26,8 @@ Proyek website ini dibangun untuk mendukung pencapaian **Sustainable Development
 
 1. **SDG 15: Ekosistem Daratan (Life on Land)(15.2)**
    * Memetakan, melindungi, dan melestarikan spesies tanaman lokal serta mencegah hilangnya keanekaragaman hayati.
-2. **SDG 13: Penanganan Perubahan Iklim (Climate Action)**
+2. **SDG 13: Penanganan Perubahan Iklim (Climate Action)(13.3)**
    * Memberikan informasi visual mengenai laju hilangnya pohon/hutan sebagai penyerap karbon bumi.
-3. **SDG 4: Pendidikan Berkualitas (Quality Education)**
    * Menyediakan media edukasi lingkungan interaktif yang dapat diakses secara gratis oleh pelajar dan masyarakat umum.
 
 ---
