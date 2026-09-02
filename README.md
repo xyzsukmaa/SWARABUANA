@@ -24,7 +24,7 @@
 ## Tujuan (SDG Alignment)
 Proyek website ini dibangun untuk mendukung pencapaian **Sustainable Development Goals (SDGs)**:
 
-1. **SDG 15: Ekosistem Daratan (Life on Land)**
+1. **SDG 15: Ekosistem Daratan (Life on Land)(15.2)**
    * Memetakan, melindungi, dan melestarikan spesies tanaman lokal serta mencegah hilangnya keanekaragaman hayati.
 2. **SDG 13: Penanganan Perubahan Iklim (Climate Action)**
    * Memberikan informasi visual mengenai laju hilangnya pohon/hutan sebagai penyerap karbon bumi.
