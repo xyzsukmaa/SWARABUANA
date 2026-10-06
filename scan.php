@@ -1,3 +1,12 @@
-<input type="file" id="foto" accept="image/*" capture="environment">
-<img id="preview" alt=""><div id="hasil"></div>
+<?php require_once 'includes/config.php'; ?>
+<?php include 'includes/header.php'; ?>
+<h2>📸 Identifikasi Tanaman (AI)</h2>
+<div class="scan-container">
+    <video id="webcam" autoplay playsinline width="320" height="240"></video>
+    <br>
+    <button onclick="takeSnapshot()">Ambil Foto & Scan</button>
+</div>
+<div id="hasil-scan"></div>
+
 <script src="assets/js/scan.js"></script>
+<?php include 'includes/footer.php'; ?>

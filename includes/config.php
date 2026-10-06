@@ -3,7 +3,7 @@ session_start();
 
 $host     = "localhost";
 $user     = "root";
-$password = ""; // sesuaikan jika ada password di XAMPP
+$password = "";
 $database = "swarabuana";
 
 $conn = mysqli_connect($host, $user, $password, $database);
