@@ -1,5 +1,14 @@
 <?php
 session_start();
-$pdo = new PDO("mysql:host=localhost;dbname=swarabuana;charset=utf8mb4", "root", "");
-$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-define('PLANTNET_KEY', 'ISI_API_KEY_KALIAN');
+
+$host     = "localhost";
+$user     = "root";
+$password = ""; // sesuaikan jika ada password di XAMPP
+$database = "swarabuana";
+
+$conn = mysqli_connect($host, $user, $password, $database);
+
+if (!$conn) {
+    die("Koneksi Database Gagal: " . mysqli_connect_error());
+}
+?>
